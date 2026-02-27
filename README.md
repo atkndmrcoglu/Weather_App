@@ -1,8 +1,8 @@
-# 🌤️ Flutter Weather App (Minimalist & Modern)
+# 🌤️ Flutter Weather App
 
 A sleek and modern **Flutter** application that provides real-time weather updates based on the user's current location. Built with **Bloc (Business Logic Component)** architecture for a clean, scalable, and professional codebase.
 
-![App Screenshot](https://via.placeholder.com/400x800?text=App+Screenshot) ## ✨ Features
+ ✨ Features
 
 * 📍 **Auto-Location:** Uses the `geolocator` package to fetch precise GPS coordinates.
 * 🌡️ **Real-time Data:** Integrated with OpenWeatherMap API to provide temperature, "feels like" conditions, wind speed, and humidity.
@@ -36,10 +36,5 @@ To run this project locally, follow these steps:
     ```bash
     flutter run
     ```
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ---
 ⭐ Feel free to star this repository if you found it helpful!
